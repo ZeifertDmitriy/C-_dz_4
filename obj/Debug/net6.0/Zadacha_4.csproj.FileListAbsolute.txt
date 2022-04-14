@@ -1,0 +1,15 @@
+D:\Учеба\git\C#\dz_1\Zadacha_4\bin\Debug\net6.0\Zadacha_4.exe
+D:\Учеба\git\C#\dz_1\Zadacha_4\bin\Debug\net6.0\Zadacha_4.deps.json
+D:\Учеба\git\C#\dz_1\Zadacha_4\bin\Debug\net6.0\Zadacha_4.runtimeconfig.json
+D:\Учеба\git\C#\dz_1\Zadacha_4\bin\Debug\net6.0\Zadacha_4.dll
+D:\Учеба\git\C#\dz_1\Zadacha_4\bin\Debug\net6.0\Zadacha_4.pdb
+D:\Учеба\git\C#\dz_1\Zadacha_4\obj\Debug\net6.0\Zadacha_4.csproj.AssemblyReference.cache
+D:\Учеба\git\C#\dz_1\Zadacha_4\obj\Debug\net6.0\Zadacha_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\git\C#\dz_1\Zadacha_4\obj\Debug\net6.0\Zadacha_4.AssemblyInfoInputs.cache
+D:\Учеба\git\C#\dz_1\Zadacha_4\obj\Debug\net6.0\Zadacha_4.AssemblyInfo.cs
+D:\Учеба\git\C#\dz_1\Zadacha_4\obj\Debug\net6.0\Zadacha_4.csproj.CoreCompileInputs.cache
+D:\Учеба\git\C#\dz_1\Zadacha_4\obj\Debug\net6.0\Zadacha_4.dll
+D:\Учеба\git\C#\dz_1\Zadacha_4\obj\Debug\net6.0\refint\Zadacha_4.dll
+D:\Учеба\git\C#\dz_1\Zadacha_4\obj\Debug\net6.0\Zadacha_4.pdb
+D:\Учеба\git\C#\dz_1\Zadacha_4\obj\Debug\net6.0\Zadacha_4.genruntimeconfig.cache
+D:\Учеба\git\C#\dz_1\Zadacha_4\obj\Debug\net6.0\ref\Zadacha_4.dll
